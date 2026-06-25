@@ -4,8 +4,8 @@
 ![Medium](https://img.shields.io/badge/Difficulty-Medium-orange)
 
 ## Submissions Stats
-- **Runtime**: 11 (8.0%)
-- **Memory**: 17512000 (5.1%)
+- **Runtime**: 6 (38.0%)
+- **Memory**: 15816000 (19.3%)
 
 ## Problem Description
 Given the `root` of a binary tree, the value of a target node `target`, and an integer `k`, return an array of the values of all nodes that have a distance `k` from the target node.
