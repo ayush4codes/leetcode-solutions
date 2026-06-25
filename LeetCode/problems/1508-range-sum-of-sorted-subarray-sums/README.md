@@ -5,7 +5,7 @@
 
 ## Submissions Stats
 - **Runtime**: N/A (100.0%)
-- **Memory**: 11940000 (75.1%)
+- **Memory**: 11768000 (79.3%)
 
 ## Problem Description
 You are given the array `nums` consisting of `n` positive integers. You computed the sum of all non-empty continuous subarrays from the array and then sorted them in non-decreasing order, creating a new array of `n * (n + 1) / 2` numbers.
