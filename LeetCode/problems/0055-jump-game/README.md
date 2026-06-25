@@ -4,8 +4,8 @@
 ![Medium](https://img.shields.io/badge/Difficulty-Medium-orange)
 
 ## Submissions Stats
-- **Runtime**: 635 (5.9%)
-- **Memory**: 55904000 (6.4%)
+- **Runtime**: N/A (100.0%)
+- **Memory**: 52392000 (58.2%)
 
 ## Problem Description
 You are given an integer array `nums`. You are initially positioned at the array's **first index**, and each element in the array represents your maximum jump length at that position.
