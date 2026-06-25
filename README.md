@@ -1,2 +1,2 @@
 # leetcode-solutions
-syncing LeetCode and GitHub
+leetcode submissions
