@@ -4,8 +4,8 @@
 ![Medium](https://img.shields.io/badge/Difficulty-Medium-orange)
 
 ## Submissions Stats
-- **Runtime**: N/A (100.0%)
-- **Memory**: 26160000 (47.3%)
+- **Runtime**: 7 (64.2%)
+- **Memory**: 26124000 (47.3%)
 
 ## Problem Description
 Given an array of integers `nums` and an integer `threshold`, we will choose a positive integer `divisor`, divide all the array by it, and sum the division's result. Find the **smallest** `divisor` such that the result mentioned above is less than or equal to `threshold`.
