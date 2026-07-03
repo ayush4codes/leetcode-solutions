@@ -4,8 +4,8 @@
 ![Medium](https://img.shields.io/badge/Difficulty-Medium-orange)
 
 ## Submissions Stats
-- **Runtime**: 195 (10.7%)
-- **Memory**: 22888000 (6.8%)
+- **Runtime**: N/A (100.0%)
+- **Memory**: 20664000 (41.1%)
 
 ## Problem Description
 You are given a **0-indexed** array of integers `nums` of length `n`. You are initially positioned at index 0.
