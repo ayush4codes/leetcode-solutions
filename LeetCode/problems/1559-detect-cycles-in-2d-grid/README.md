@@ -4,8 +4,8 @@
 ![Medium](https://img.shields.io/badge/Difficulty-Medium-orange)
 
 ## Submissions Stats
-- **Runtime**: 19 (89.9%)
-- **Memory**: 64756000 (81.6%)
+- **Runtime**: 21 (80.4%)
+- **Memory**: 65060000 (71.1%)
 
 ## Problem Description
 Given a 2D array of characters `grid` of size `m x n`, you need to find if there exists any cycle consisting of the **same value** in `grid`.
