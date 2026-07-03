@@ -5,7 +5,7 @@
 
 ## Submissions Stats
 - **Runtime**: N/A (100.0%)
-- **Memory**: 10244000 (60.9%)
+- **Memory**: 10244000 (61.7%)
 
 ## Problem Description
 You are playing a game involving a **circular** array of non-zero integers `nums`. Each `nums[i]` denotes the number of indices forward/backward you must move if you are located at index `i`:
