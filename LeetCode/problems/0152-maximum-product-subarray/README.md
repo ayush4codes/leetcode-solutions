@@ -5,7 +5,7 @@
 
 ## Submissions Stats
 - **Runtime**: N/A (100.0%)
-- **Memory**: 17684000 (86.3%)
+- **Memory**: 17836000 (23.1%)
 
 ## Problem Description
 Given an integer array `nums`, find a subarray that has the largest product, and return the product.
