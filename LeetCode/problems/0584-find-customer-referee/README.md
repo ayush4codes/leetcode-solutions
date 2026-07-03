@@ -4,7 +4,7 @@
 ![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen)
 
 ## Submissions Stats
-- **Runtime**: 476 (82.3%)
+- **Runtime**: 476 (81.4%)
 - **Memory**: N/A (100.0%)
 
 ## Problem Description
