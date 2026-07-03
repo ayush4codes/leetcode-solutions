@@ -5,7 +5,7 @@
 
 ## Submissions Stats
 - **Runtime**: 1795 (5.1%)
-- **Memory**: 92324000 (86.7%)
+- **Memory**: 92324000 (85.9%)
 
 ## Problem Description
 Given an integer array `nums`, return an integer array `counts` where `counts[i]` is the number of smaller elements to the right of `nums[i]`.
