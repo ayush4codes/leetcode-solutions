@@ -4,8 +4,8 @@
 ![Medium](https://img.shields.io/badge/Difficulty-Medium-orange)
 
 ## Submissions Stats
-- **Runtime**: N/A (100.0%)
-- **Memory**: 16564000 (97.6%)
+- **Runtime**: 2 (32.1%)
+- **Memory**: 16620000 (86.2%)
 
 ## Problem Description
 You are given an `m x n` `grid` where each cell can have one of three values:
