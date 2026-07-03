@@ -4,7 +4,7 @@
 ![Medium](https://img.shields.io/badge/Difficulty-Medium-orange)
 
 ## Submissions Stats
-- **Runtime**: 987 (6.8%)
+- **Runtime**: 730 (54.4%)
 - **Memory**: N/A (100.0%)
 
 ## Problem Description
