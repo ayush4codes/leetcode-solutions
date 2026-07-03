@@ -5,7 +5,7 @@
 
 ## Submissions Stats
 - **Runtime**: N/A (100.0%)
-- **Memory**: 43508000 (78.2%)
+- **Memory**: 43508000 (78.4%)
 
 ## Problem Description
 Given a **circular integer array** `nums` of length `n`, return the maximum possible sum of a non-empty **subarray** of `nums`.
