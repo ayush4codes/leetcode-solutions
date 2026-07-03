@@ -4,8 +4,8 @@
 ![Hard](https://img.shields.io/badge/Difficulty-Hard-red)
 
 ## Submissions Stats
-- **Runtime**: 284 (12.1%)
-- **Memory**: 19352000 (43.1%)
+- **Runtime**: 284 (12.2%)
+- **Memory**: 19352000 (45.0%)
 
 ## Problem Description
 There is a one-dimensional garden on the x-axis. The garden starts at the point `0` and ends at the point `n`. (i.e., the length of the garden is `n`).
