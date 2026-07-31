@@ -5,7 +5,7 @@
 
 ## Submissions Stats
 - **Runtime**: N/A (100.0%)
-- **Memory**: 59464000 (24.2%)
+- **Memory**: 59464000 (25.9%)
 
 ## Problem Description
 You are given the `root` node of a binary search tree (BST) and a `value` to insert into the tree. Return the root node of the BST after the insertion. It is **guaranteed** that the new value does not exist in the original BST.
